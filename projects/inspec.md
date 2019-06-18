@@ -22,6 +22,10 @@ Ryan Davis
   - Github: [zenspider](https://github.com/zenspider)
   - Slack: @rdavis
 
+Keka Ichinose
+  - Github: [kekaichinose](https://github.com/kekaichinose)
+  - Slack: @keka
+
 #### Project Approvers
 
 #### Project Reviewers
